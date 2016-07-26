@@ -1,0 +1,3 @@
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\coloring\coloring\bin\Debug\coloring.exe.config
+C:\Users\andy\Google Drive\Discrete Optimization\coloring\coloring\bin\Debug\coloring.exe.config
+C:\Users\andy\Google Drive\Discrete Optimization\coloring\coloring\obj\Debug\coloring.csprojResolveAssemblyReference.cache

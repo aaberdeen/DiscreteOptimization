@@ -1,0 +1,9 @@
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\bin\Debug\knapsack_solution.exe.config
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\bin\Debug\knapsack_solution.exe
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\bin\Debug\knapsack_solution.pdb
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\obj\Debug\knapsack_solution.Form1.resources
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\obj\Debug\knapsack_solution.Properties.Resources.resources
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\obj\Debug\knapsack_solution.csproj.GenerateResource.Cache
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\obj\Debug\knapsack_solution.exe
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\obj\Debug\knapsack_solution.pdb
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\knapsack_solution\knapsack_solution\obj\Debug\knapsack_solution.csprojResolveAssemblyReference.cache

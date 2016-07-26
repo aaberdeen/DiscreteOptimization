@@ -1,0 +1,7 @@
+C:\Users\andy.DDDES\Google Drive\Discrete Optimization\knapsack\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\andy\Google Drive\Discrete Optimization\knapsack\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\andy\Google Drive\Discrete Optimization\knapsack\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\andy\Google Drive\Discrete Optimization\knapsack\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\andy\Google Drive\Discrete Optimization\knapsack\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\andy\Google Drive\Discrete Optimization\knapsack\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\andy\Google Drive\Discrete Optimization\knapsack\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
